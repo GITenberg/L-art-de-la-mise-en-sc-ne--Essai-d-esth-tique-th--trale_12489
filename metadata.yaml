@@ -1,0 +1,31 @@
+_repo: L-art-de-la-mise-en-sc-ne--Essai-d-esth-tique-th--trale_12489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Becq de Fouquières, L. (Louis)
+    aliases:
+    - De Fouquières, L. Becq (Louis Becq)
+    - Becq de Fouquieres, Louis Aime Victor
+    - Fouquières, L. Becq de (Louis Becq)
+    - Becq de Fouquières, Louis Aimé Victor
+    birthdate: 1831
+    deathdate: 1887
+    gutenberg_agent_id: '4395'
+    url: http://www.gutenberg.org/2009/agents/4395
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12489'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theaters -- Stage-setting and scenery'
+- !lcsh 'Theater'
+- !lcc 'PN'
+- GITenberg
+title: 'L''art de la mise en scène: Essai d''esthétique théâtrale'
+url: http://www.gutenberg.org/ebooks/12489
