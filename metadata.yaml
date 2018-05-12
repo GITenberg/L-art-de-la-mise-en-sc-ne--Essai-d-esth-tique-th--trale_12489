@@ -1,5 +1,8 @@
 _repo: L-art-de-la-mise-en-sc-ne--Essai-d-esth-tique-th--trale_12489
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Becq de Fouquières, L. (Louis)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '4395'
     url: http://www.gutenberg.org/2009/agents/4395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12489#L-art-de-la-mise-en-sc-ne--Essai-d-esth-tique-th--trale
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
